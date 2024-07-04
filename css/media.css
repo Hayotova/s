@@ -1,0 +1,151 @@
+@media only screen and (max-width: 1562px){
+    .main-one{
+      
+        flex-direction: column;
+        text-align: center;
+    }
+    .text-box-title{
+        margin: 0 auto;
+        width: 80%;
+        text-align: center;
+    }
+    .main-one{
+    display: block;
+        margin-top: 50px;
+    }
+    .text-box-info{
+        margin: 0 auto;
+        width: 80%;
+        text-align: center;
+    }
+    .btn-one{
+       
+    }
+.text-box{
+    width: 100%;
+}
+.text-box-img{
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.photo-two{
+
+
+}
+.see-video{
+width: 100%;
+background-color: white;
+
+}
+.main-two-box{
+    flex-direction: column;
+    text-align: center;
+    
+}
+.provide{
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+}
+.see-v{
+    text-align: right;
+}
+.our {
+    flex-direction: column;
+    text-align: center;
+   padding-top: 0px;
+}
+.our-photo{
+width: 60%;
+height: 600px;
+margin: 0 auto;
+}
+.our-text{
+   
+}
+.our-title {
+    padding-top: 50px;
+    color: #486958;
+    width: 100%;
+    text-align: center;
+}
+.our-info{
+    width: 100%;
+    text-align: center;
+}
+.owl-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.owl-prev{
+
+}
+.testimonial{
+    padding-top: 100px;
+}
+.reclam{
+    flex-direction: column;
+    text-align: center;
+
+}
+.rec{
+    padding-top: 30px;
+}
+
+}
+@media only screen and (max-width: 1400px){
+    .experience {
+        flex-direction: column;
+        text-align: center;
+    
+    }
+    .experience-photo{
+        margin: 0 auto;
+        width: 60%;
+        height: 600px;
+        margin-bottom: 40px;
+    }
+    .experience-box {
+   
+        width: 60%;
+        height: 600px;
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .footer{
+        
+        padding-top: 60px;
+
+    }
+    .foot{
+        /* flex-direction: column;
+        text-align: center; */
+    }
+    .vector-uz{
+       
+    }
+    .foot-inp{
+        margin-top: 40px;
+    }
+    .num{
+        width: 20%;
+    }
+    .burger{
+      display: block;
+    }
+    .item{
+        display: none;
+      }
+      .btn{
+       display: none;
+      }
+
+};
+@media only screen and (max-width: 950px){
+    .main-img-one{
+        width: 30px;
+    }
+};
